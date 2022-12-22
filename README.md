@@ -1,4 +1,4 @@
-# ANİMATION PAGE
+#  ANİMATION PAGE
 
 ## animosyan geçişlerini gösteren site
 
