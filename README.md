@@ -17,3 +17,5 @@ https://user-images.githubusercontent.com/76417507/209106903-1044dba5-4adf-4f55-
 `npm install`
 
 `npm run dev`
+
+`npm i vue-router`
